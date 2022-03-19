@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Podly27/kalendar/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+###  Jak přidat kalendář do vlastního kalendáře
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**URL** je odkaz pro prohlížeč
 
-### Markdown
+**ICal** pro jiné aplikace a apple
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+... a taky **iframe** pro použití na webových stránkách.
 
-```markdown
-Syntax highlighted code block
+### CB závod
 
-# Header 1
-## Header 2
-### Header 3
+URL: https://calendar.google.com/calendar/embed?src=eo98c5cherus0iakmvv2mf0n84%40group.calendar.google.com&ctz=Europe%2FPrague
 
-- Bulleted
-- List
+iCal: https://calendar.google.com/calendar/ical/eo98c5cherus0iakmvv2mf0n84%40group.calendar.google.com/private-c39325c94666d50a65b3c5c233fbdc5f/basic.ics
 
-1. Numbered
-2. List
+Iframe : <iframe src="https://calendar.google.com/calendar/embed?src=eo98c5cherus0iakmvv2mf0n84%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### PMR závody
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+URL: https://calendar.google.com/calendar/embed?src=0h62eojhdfjohoo15blgjfiag4%40group.calendar.google.com&ctz=Europe%2FPrague
 
-### Jekyll Themes
+iCal: https://calendar.google.com/calendar/ical/0h62eojhdfjohoo15blgjfiag4%40group.calendar.google.com/private-6c4b263aae34d42a613d29a8fadbc9a8/basic.ics
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Podly27/kalendar/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Iframe : <iframe src="https://calendar.google.com/calendar/embed?src=0h62eojhdfjohoo15blgjfiag4%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### VHF/UHF závody
+
+URL: https://calendar.google.com/calendar/embed?src=muga57u8n0c1q2m6kjeu11g9nk%40group.calendar.google.com&ctz=Europe%2FPrague
+
+iCal: https://calendar.google.com/calendar/ical/muga57u8n0c1q2m6kjeu11g9nk%40group.calendar.google.com/private-0bb4a3a5df726354951d3a4833722363/basic.ics
+
+Iframe : <iframe src="https://calendar.google.com/calendar/embed?src=muga57u8n0c1q2m6kjeu11g9nk%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+
+### HF závody
+
+URL: https://calendar.google.com/calendar/embed?src=iu44kpkie5v44pdc1ko0p6lc3k%40group.calendar.google.com&ctz=Europe%2FPrague
+
+iCal: https://calendar.google.com/calendar/ical/iu44kpkie5v44pdc1ko0p6lc3k%40group.calendar.google.com/private-45e2b1ba399662bdbb45b1c32d88fb07/basic.ics
+
+Iframe : <iframe src="https://calendar.google.com/calendar/embed?src=iu44kpkie5v44pdc1ko0p6lc3k%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+
+### CB/PMR/HAM akce a srazy
+
+URL:
+
+iCal:
+
+Iframe:
+
+
+### Chcete přidat akci nebo závod do kalendáře ?
+Pokud chcete přidat nějakou akci do kalendáře tak mne neváhejte kontaktovat kalendar(a)email.com
