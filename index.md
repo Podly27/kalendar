@@ -1,15 +1,13 @@
 #  CB/PMR/HAM kalendář
 
+## Chcete přidat akci nebo závod do kalendáře ?
+Pokud chcete přidat nějakou akci do kalendáře nebo máte dotaz nebo připomínku? Tak mne neváhejte kontaktovat ok2ikt(a)seznam.cz .
 
 
 
-###  Jak přidat kalendář do vlastního kalendáře
+##  Jak přidat kalendář do vlastního kalendáře
 
-**URL** je odkaz pro prohlížeč
-
-**ICal** pro jiné aplikace a apple
-
-... a taky **iframe** pro použití na webových stránkách.
+**URL** je odkaz pro prohlížeč, **ICal** pro jiné aplikace a apple a taky možno použít **iframe** pro použití na webových stránkách.
 
 ### CB závod
 **URL:** ```https://calendar.google.com/calendar/embed?src=eo98c5cherus0iakmvv2mf0n84%40group.calendar.google.com&ctz=Europe%2FPrague```
@@ -50,5 +48,3 @@
 
 **Iframe:** ```<iframe src="https://calendar.google.com/calendar/embed?src=hu9bjdhvi8a1ggf2mh6cv853ik%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>```
 
-## Chcete přidat akci nebo závod do kalendáře ?
-Pokud chcete přidat nějakou akci do kalendáře tak mne neváhejte kontaktovat kalendar(a)email.com
