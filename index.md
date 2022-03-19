@@ -1,4 +1,6 @@
 #  CB/PMR/HAM kalendář
+Do kalendářů se snažím zaznamenat všechny akce na území ČR/SR a některé z mého pohledu zajimavé a významné. **WA7BNM Contest Calendar** obsahuje mezinárodní souteže.
+
 
 ## Chcete přidat akci nebo závod do kalendáře ?
 Pokud chcete přidat nějakou akci do kalendáře nebo máte dotaz nebo připomínku? Tak mne neváhejte kontaktovat ok2ikt(a)seznam.cz .
@@ -9,7 +11,7 @@ Pokud chcete přidat nějakou akci do kalendáře nebo máte dotaz nebo připom�
 
 **URL** je odkaz pro prohlížeč, **ICal** pro jiné aplikace a apple a taky možno použít **iframe** pro použití na webových stránkách.
 
-### CB závod
+### CB závody
 **URL:** ```https://calendar.google.com/calendar/embed?src=eo98c5cherus0iakmvv2mf0n84%40group.calendar.google.com&ctz=Europe%2FPrague```
 
 **iCal:** ```https://calendar.google.com/calendar/ical/eo98c5cherus0iakmvv2mf0n84%40group.calendar.google.com/private-c39325c94666d50a65b3c5c233fbdc5f/basic.ics```
@@ -47,4 +49,12 @@ Pokud chcete přidat nějakou akci do kalendáře nebo máte dotaz nebo připom�
 **iCal:** ```https://calendar.google.com/calendar/ical/hu9bjdhvi8a1ggf2mh6cv853ik%40group.calendar.google.com/public/basic.ics```
 
 **Iframe:** ```<iframe src="https://calendar.google.com/calendar/embed?src=hu9bjdhvi8a1ggf2mh6cv853ik%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>```
+
+### WA7BNM Contest Calendar
+
+**URL:** ```https://calendar.google.com/calendar/embed?src=9o3or51jjdsantmsqoadmm949k%40group.calendar.google.com&ctz=Europe%2FPrague```
+
+**iCal:** ```https://calendar.google.com/calendar/ical/9o3or51jjdsantmsqoadmm949k%40group.calendar.google.com/public/basic.ics```
+
+**Iframe:** ```<iframe src="https://calendar.google.com/calendar/embed?src=9o3or51jjdsantmsqoadmm949k%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>```
 
