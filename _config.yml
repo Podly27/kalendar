@@ -1,11 +1,2 @@
-exclude:
-  - node_modules
-  - script
-
-sass:
-  style: :compressed
-
-theme: jekyll-theme-slate
-
 title: CB/PMR/HAM kalendář
-description: Zde najdete seznam CB/PMR/HAM kalendář závodů a akcí
+description: zde najdete seznam CB/PMR/HAM kalendář závodů a akcí
