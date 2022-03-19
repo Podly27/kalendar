@@ -50,5 +50,5 @@
 
 **Iframe:** ```<iframe src="https://calendar.google.com/calendar/embed?src=hu9bjdhvi8a1ggf2mh6cv853ik%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>```
 
-### Chcete přidat akci nebo závod do kalendáře ?
+## Chcete přidat akci nebo závod do kalendáře ?
 Pokud chcete přidat nějakou akci do kalendáře tak mne neváhejte kontaktovat kalendar(a)email.com
