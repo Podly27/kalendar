@@ -1,3 +1,7 @@
+#  CB/PMR/HAM kalendář
+
+
+
 
 ###  Jak přidat kalendář do vlastního kalendáře
 
