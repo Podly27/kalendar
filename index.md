@@ -35,19 +35,20 @@
 **Iframe:** ```<iframe src="https://calendar.google.com/calendar/embed?src=muga57u8n0c1q2m6kjeu11g9nk%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>```
 
 ### HF závody
-```**URL:** https://calendar.google.com/calendar/embed?src=iu44kpkie5v44pdc1ko0p6lc3k%40group.calendar.google.com&ctz=Europe%2FPrague```
 
-```**iCal:** https://calendar.google.com/calendar/ical/iu44kpkie5v44pdc1ko0p6lc3k%40group.calendar.google.com/private-45e2b1ba399662bdbb45b1c32d88fb07/basic.ics```
+**URL:** ```https://calendar.google.com/calendar/embed?src=iu44kpkie5v44pdc1ko0p6lc3k%40group.calendar.google.com&ctz=Europe%2FPrague```
+
+**iCal:** ```https://calendar.google.com/calendar/ical/iu44kpkie5v44pdc1ko0p6lc3k%40group.calendar.google.com/private-45e2b1ba399662bdbb45b1c32d88fb07/basic.ics```
 
 **Iframe:** ```<iframe src="https://calendar.google.com/calendar/embed?src=iu44kpkie5v44pdc1ko0p6lc3k%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>```
 
 ### CB/PMR/HAM akce a srazy
 
-**URL:** ```  ```
+**URL:** ```https://calendar.google.com/calendar/embed?src=hu9bjdhvi8a1ggf2mh6cv853ik%40group.calendar.google.com&ctz=Europe%2FPrague```
 
-**iCal:** ```  ```
+**iCal:** ```https://calendar.google.com/calendar/ical/hu9bjdhvi8a1ggf2mh6cv853ik%40group.calendar.google.com/public/basic.ics```
 
-**Iframe:** ```  ```
+**Iframe:** ```<iframe src="https://calendar.google.com/calendar/embed?src=hu9bjdhvi8a1ggf2mh6cv853ik%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>```
 
 ### Chcete přidat akci nebo závod do kalendáře ?
 Pokud chcete přidat nějakou akci do kalendáře tak mne neváhejte kontaktovat kalendar(a)email.com
