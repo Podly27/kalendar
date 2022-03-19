@@ -1,11 +1,12 @@
-#  CB/PMR/HAM kalendář
-Do kalendářů se snažím zaznamenat všechny akce na území ČR/SR a některé z mého pohledu zajimavé a významné. **WA7BNM Contest Calendar** obsahuje mezinárodní souteže.
+# [>>> CB/PMR/HAM kalendář <<<](https://calendar.google.com/calendar/embed?src=hu9bjdhvi8a1ggf2mh6cv853ik%40group.calendar.google.com&src=iu44kpkie5v44pdc1ko0p6lc3k%40group.calendar.google.com&src=muga57u8n0c1q2m6kjeu11g9nk%40group.calendar.google.com&src=0h62eojhdfjohoo15blgjfiag4%40group.calendar.google.com&src=eo98c5cherus0iakmvv2mf0n84%40group.calendar.google.com&src=9o3or51jjdsantmsqoadmm949k%40group.calendar.google.com&ctz=Europe%2FPrague)
 
+Do kalendářů se snažím zaznamenat všechny akce na území ČR/SR a některé z mého pohledu zajimavé a významné. **WA7BNM Contest Calendar** obsahuje mezinárodní souteže.
+#
 
 ## Chcete přidat akci nebo závod do kalendáře ?
 Pokud chcete přidat nějakou akci do kalendáře nebo máte dotaz nebo připomínku? Tak mne neváhejte kontaktovat ok2ikt(a)seznam.cz .
 
-
+#
 
 ##  Jak přidat kalendář do vlastního kalendáře
 
