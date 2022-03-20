@@ -2,7 +2,11 @@
 
 Odkaz směruje na Google. Pro lepší přehlednost po rozkliknutí šipky v pravém horním rohu je možno vybrat které kalendáře se zobrazují a které ne.
 
-# [> > > kalendář < < <](https://calendar.google.com/calendar/embed?src=hu9bjdhvi8a1ggf2mh6cv853ik%40group.calendar.google.com&src=muga57u8n0c1q2m6kjeu11g9nk%40group.calendar.google.com&src=0h62eojhdfjohoo15blgjfiag4%40group.calendar.google.com&src=eo98c5cherus0iakmvv2mf0n84%40group.calendar.google.com&src=9o3or51jjdsantmsqoadmm949k%40group.calendar.google.com&src=iu44kpkie5v44pdc1ko0p6lc3k%40group.calendar.google.com&ctz=Europe%2FPrague)
+# [> > > CZ/SK kalendář < < <](https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FPrague&src=aHU5YmpkaHZpOGExZ2dmMm1oNmN2ODUzaWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=ZW85OGM1Y2hlcnVzMGlha212djJtZjBuODRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=aXU0NGtwa2llNXY0NHBkYzFrbzBwNmxjM2tAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=MGg2MmVvamhkZmpvaG9vMTVibGdqZmlhZzRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=bXVnYTU3dThuMGMxcTJtNmtqZXUxMWc5bmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=Y3MuY3plY2gjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%233F51B5&color=%238E24AA&color=%23F09300&color=%23D81B60&color=%23EF6C00&color=%23009688)
+[> > > kompletní kalendář CZ/SK + WA7BNM Contest Calendar < < <](https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FPrague&src=aHU5YmpkaHZpOGExZ2dmMm1oNmN2ODUzaWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=ZW85OGM1Y2hlcnVzMGlha212djJtZjBuODRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=aXU0NGtwa2llNXY0NHBkYzFrbzBwNmxjM2tAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=MGg2MmVvamhkZmpvaG9vMTVibGdqZmlhZzRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=bXVnYTU3dThuMGMxcTJtNmtqZXUxMWc5bmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=Y3MuY3plY2gjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&src=OW8zb3I1MWpqZHNhbnRtc3FvYWRtbTk0OWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%233F51B5&color=%238E24AA&color=%23F09300&color=%23D81B60&color=%23EF6C00&color=%23009688&color=%238E24AA
+)
+
+
 
 Už druhým rokem se snažím vézt kalendáře akcí a sdílet ho veřejně. Do kalendářů se snažím zaznamenat všechny akce na území ČR/SR o kterých se dozvím a některé mezinárodní z mého pohledu zajimavé a významné. **WA7BNM Contest Calendar** obsahuje mezinárodní souteže.
 
