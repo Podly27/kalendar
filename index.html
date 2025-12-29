@@ -107,7 +107,13 @@
           <p> </p>
 
         <h2 id="line"> </h2>
-      <p><center> Created and maintained by OK2IKT, 2022 </center></p>
+      <p><center> Created and maintained by OK2IKT, <span id="currentYear">2022</span> </center></p>
+      <script>
+        (function () {
+          var el = document.getElementById('currentYear');
+          if (el) el.textContent = String(new Date().getFullYear());
+        })();
+      </script>
     </div>
   </body>
 </html>
