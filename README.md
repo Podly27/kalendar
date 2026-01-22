@@ -1,5 +1,4 @@
-# kalendar
-CB/PMR/HAM kalendář akcí a závodů
+# CB/PMR/HAM kalendář akcí a závodů
 
 ## Odkazy na stránky
 - Primární: https://podly27.github.io/CB-PMR-HAM-kalendar/
