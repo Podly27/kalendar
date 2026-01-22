@@ -28,4 +28,4 @@ Tento projekt je statický a běží na GitHub Pages bez build kroku.
 4. Počkejte na deploy – URL bude odpovídat nastavení v Pages.
 
 ## Další možné úpravy
-- [ ] **Monitoring odkazů** – krátký skript nebo GitHub Action, která ověří dostupnost iCal/URL odkazů.
+- [x] **Monitoring odkazů** – krátký skript nebo GitHub Action, která ověří dostupnost iCal/URL odkazů.
