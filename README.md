@@ -1,6 +1,10 @@
 # kalendar
 CB/PMR/HAM kalendář akcí a závodů
 
+## Odkazy na stránky
+- Primární: https://podly27.github.io/CB-PMR-HAM-kalendar/
+- Sekundární: https://kalendar.svysilackou.cz/
+
 ## Rychlá analýza projektu
 Tento repozitář obsahuje statickou stránku publikovanou přes GitHub Pages. Jádrem je jediný HTML soubor s vloženými Google Calendar embed odkazy, doplněný o jednoduché CSS a ikonky pro URL/iCal odkazy. Stránka slouží jako rozcestník pro více tematických kalendářů a nabízí i kopírování iCal URL přímo z UI. Z technického pohledu jde o jednoduchý statický web bez build procesu, takže údržba spočívá hlavně v aktualizaci odkazů, textů a stylů.
 
