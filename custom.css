@@ -31,7 +31,7 @@
   border: 1px solid rgba(27, 31, 36, 0.15);
   border-radius: 12px;
   padding: 12px 12px 10px;
-  background: rgba(255, 255, 255, 0.7);
+  background: #ffffff;
 }
 
 .calendar-card h3 {
@@ -52,16 +52,17 @@
   gap: 6px;
   padding: 6px 10px;
   border-radius: 10px;
-  border: 1px solid rgba(27, 31, 36, 0.2);
-  background: #fff;
-  color: inherit;
+  border: 1px solid rgba(31, 35, 40, 0.35);
+  background: #f6f8fa;
+  color: #1f2328;
   text-decoration: none;
   font-size: 14px;
   line-height: 1.2;
 }
 
 .btn:hover {
-  border-color: rgba(27, 31, 36, 0.35);
+  border-color: rgba(31, 35, 40, 0.6);
+  background: #eef1f4;
   text-decoration: none;
 }
 
@@ -76,10 +77,54 @@
 .copy-status {
   margin-left: 6px;
   font-size: 13px;
-  opacity: 0.75;
+  color: #4b5563;
 }
 
-/* On phones: make the main embed a bit shorter and hide mini-embeds table. */
+.section-divider {
+  border: 0;
+  border-top: 1px solid rgba(31, 35, 40, 0.15);
+  margin: 20px 0;
+}
+
+.calendar-mini-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 16px;
+  margin: 12px 0 0;
+}
+
+.calendar-mini-card {
+  border: 1px solid rgba(27, 31, 36, 0.15);
+  border-radius: 12px;
+  background: #ffffff;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.calendar-mini-card h3 {
+  margin: 0;
+  font-size: 15px;
+}
+
+.calendar-mini-links {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.calendar-mini-links img {
+  display: block;
+}
+
+.calendar-mini-card iframe {
+  width: 100%;
+  min-height: 320px;
+  border: 0;
+}
+
+/* On phones: make the main embed a bit shorter and stack mini cards comfortably. */
 @media (max-width: 900px) {
   .calendar-main iframe {
     height: 66vh;
@@ -94,9 +139,8 @@
     border-radius: 8px;
   }
 
-  .calendar-mini-table {
-    display: none;
+  .calendar-mini-grid {
+    grid-template-columns: 1fr;
   }
 }
-
 
