@@ -22,20 +22,26 @@
   text-align: center;
 }
 
+.markdown-body {
+  text-align: center;
+}
+
 .markdown-body > p {
-  max-width: 920px;
+  max-width: 980px;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
 }
 
 .container-lg {
-  max-width: 1100px;
+  max-width: 1400px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .calendar-cards {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  grid-template-columns: repeat(5, minmax(180px, 1fr));
   gap: 12px;
   margin: 10px 0 6px;
 }
@@ -45,6 +51,7 @@
   border-radius: 12px;
   padding: 12px 12px 10px;
   background: #ffffff;
+  text-align: center;
 }
 
 .calendar-card h3 {
@@ -57,6 +64,7 @@
   flex-wrap: wrap;
   gap: 8px;
   align-items: center;
+  justify-content: center;
 }
 
 .btn {
@@ -101,7 +109,7 @@
 
 .calendar-mini-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  grid-template-columns: repeat(5, minmax(220px, 1fr));
   gap: 16px;
   margin: 12px 0 0;
 }
@@ -114,6 +122,7 @@
   display: flex;
   flex-direction: column;
   gap: 8px;
+  text-align: center;
 }
 
 .calendar-mini-card h3 {
@@ -125,6 +134,7 @@
   display: flex;
   gap: 8px;
   align-items: center;
+  justify-content: center;
 }
 
 .calendar-mini-links img {
@@ -143,6 +153,14 @@
     height: 66vh;
     min-height: 520px;
   }
+
+  .calendar-cards {
+    grid-template-columns: repeat(2, minmax(220px, 1fr));
+  }
+
+  .calendar-mini-grid {
+    grid-template-columns: repeat(2, minmax(220px, 1fr));
+  }
 }
 
 @media (max-width: 720px) {
@@ -150,6 +168,10 @@
     height: 62vh;
     min-height: 480px;
     border-radius: 8px;
+  }
+
+  .calendar-cards {
+    grid-template-columns: 1fr;
   }
 
   .calendar-mini-grid {
