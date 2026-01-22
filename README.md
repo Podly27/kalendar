@@ -14,9 +14,18 @@ Tento repozitář obsahuje statickou stránku publikovanou přes GitHub Pages. J
 - `_config.yml` – konfigurace GitHub Pages/Jekyll (např. theme a SEO).
 - Ikony a favicona (`ical-icon.png`, `url-icon.png`, `favicon.ico`).
 
-## TODO návrhy na úpravy
-- [ ] **Zjednodušit embed část** – vytvořit přehledný seznam kalendářů z jedné datové struktury (např. JSON v JS) a generovat karty/iframe dynamicky, aby se minimalizovala duplicita HTML.
-- [ ] **Lepší přístupnost** – doplnit popisky/aria-labely u tlačítek a odkazů, sjednotit heading hierarchii a upravit kontrasty v CSS.
-- [ ] **Responzivní layout** – vylepšit chování na mobilech (např. změnit tabulku mini-kalendářů na stacking karty).
-- [ ] **Dokumentace** – přidat do README sekci „Jak aktualizovat kalendáře“ a „Jak nasadit na GitHub Pages“.
+## Jak aktualizovat kalendáře
+Kalendáře jsou definované v `index.html` jako jedna datová struktura v JavaScriptu (pole `calendars`). Pokud potřebujete přidat nebo upravit položku:
+1. Otevřete `index.html` a najděte sekci se skriptem `calendars`.
+2. Přidejte/aktualizujte objekt s názvem, `embedSrc`, `icalSrc` a `agendaSrc`.
+3. Uložte soubor a případně zkontrolujte výsledný layout v prohlížeči.
+
+## Jak nasadit na GitHub Pages
+Tento projekt je statický a běží na GitHub Pages bez build kroku.
+1. Pushněte změny do hlavní větve repozitáře.
+2. V nastavení repozitáře otevřete **Settings → Pages**.
+3. Zkontrolujte, že je zdroj nastaven na hlavní větev (root).
+4. Počkejte na deploy – URL bude odpovídat nastavení v Pages.
+
+## Další možné úpravy
 - [ ] **Monitoring odkazů** – krátký skript nebo GitHub Action, která ověří dostupnost iCal/URL odkazů.
