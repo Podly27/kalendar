@@ -107,6 +107,18 @@
   margin: 20px 0;
 }
 
+.site-footer {
+  text-align: center;
+}
+
+.site-footer p {
+  margin-bottom: 12px;
+}
+
+.site-footer img {
+  display: inline-block;
+}
+
 .calendar-mini-grid {
   display: grid;
   grid-template-columns: repeat(5, minmax(220px, 1fr));
